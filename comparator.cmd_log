@@ -1,0 +1,4 @@
+sch2verilog -intstyle ise -family virtex2p   -w "C:/Documents and Settings/student/Desktop/EE533_lab3_op/comparator.sch" comparator.vf
+sch2verilog -intstyle ise -family virtex2p   -w "C:/Documents and Settings/student/Desktop/EE533_lab3_op/comparator.sch" comparator.vf
+sch2verilog -intstyle ise -family virtex2p   -w "C:/Documents and Settings/student/Desktop/EE533_lab3_op/comparator.sch" comparator.vf
+sch2verilog -intstyle ise -family virtex2p   -w "C:/Documents and Settings/student/Desktop/EE533_lab3_op/comparator.sch" comparator.vf
